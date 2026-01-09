@@ -1,6 +1,6 @@
 import fs from "fs";
 
-const lines = fs.readFileSync("./241225L02.txt", "utf-8").split(/\r?\n/);
+const lines = fs.readFileSync("./241225L04.txt", "utf-8").split(/\r?\n/);
 const THRESHOLD = 110000;
 
 lines
